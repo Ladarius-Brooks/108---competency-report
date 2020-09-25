@@ -81,6 +81,7 @@ class Catalog extends Component {
         this.setState({ categories: cats});
     }
 }
+// struggling to add this to github
  
 
 export default Catalog;
